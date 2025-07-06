@@ -1,0 +1,7 @@
+body {
+  background-color: #f5f6fa;
+}
+canvas {
+  max-width: 100% !important;
+  height: 350px !important;
+}
